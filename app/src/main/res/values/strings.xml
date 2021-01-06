@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Liste des amis</string>
+    <string name="app_name">Android TP 3</string>
+    <string name="appareil_photo">Appareil Photo</string>
 </resources>

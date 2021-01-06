@@ -1,4 +1,4 @@
-package com.example.list_view_demo;
+package com.example.android_tp_2_part_1;
 
 import org.junit.Test;
 

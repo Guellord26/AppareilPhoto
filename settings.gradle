@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "list_view_demo"
+rootProject.name = "Android_Tp_2_part_1"
